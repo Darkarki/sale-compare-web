@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://triple-check.net/sitemap.xml
+Sitemap: https://triple-check.net/news-feed.xml

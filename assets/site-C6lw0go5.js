@@ -1,0 +1,1 @@
+import{O as m}from"./index-BjvyaF_2.js";const n="יולי 2026",o=2026;function r(e){return{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:e.map((t,a)=>({"@type":"ListItem",position:a+1,name:t.name,...t.path?{item:m+t.path}:{}}))}}export{n as M,o as Y,r as b};
