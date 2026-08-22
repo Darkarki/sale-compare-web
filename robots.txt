@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://triple-check.net/sitemap.xml
+Sitemap: https://triple-check.net/news-feed.xml
+
+# Agent report — reachable by link from the emailed summary, no business in search results.
+Disallow: /seo-report/
+
+# News agent report — reachable by link from the emailed summary.
+Disallow: /news-report/
