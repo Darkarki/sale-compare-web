@@ -1,0 +1,1 @@
+import{j as s,I as r,ab as i,U as n}from"./index-BdutFhlf.js";function c({className:e=""}){return s.jsxs("p",{className:`pricefresh ${e}`.trim(),children:[s.jsx(r,{name:"check",size:13}),s.jsxs("span",{children:["המחירים באתר עודכנו לאחרונה ב־",s.jsx("time",{dateTime:i||void 0,children:s.jsx("b",{children:n})})]})]})}export{c as P};
